@@ -1,6 +1,6 @@
 {
   "name": "gulp-userefconcat",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "description": "Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.",
   "main": "index.js",
   "directories": {
