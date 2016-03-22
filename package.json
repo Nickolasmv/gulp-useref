@@ -41,7 +41,7 @@
     "index.js",
     "lib"
   ],
-  "repository": "jonkemp/gulp-useref",
+  "repository": "Nickolasmv/gulp-useref",
   "keywords": [
     "gulpplugin",
     "html",
